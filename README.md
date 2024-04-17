@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+login:  admin
+password:  Admin111
+
+
 This project was bootstrapped with [Create React App](https://github.com/lensAleks/task-trivo.git).
 
 ## Available Scripts
